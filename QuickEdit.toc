@@ -1,0 +1,11 @@
+# Quickedit. Add some shortcuts for modes buried in menus
+
+
+## Title:|cffff7d0aQuick Edit
+## Author: Neverstar
+## Version: 0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Add some handy slash commands
+## URL: https://github.com/Jed-Giblin/QuickEdit
+quickedit.lua
